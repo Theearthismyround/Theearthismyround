@@ -1,8 +1,6 @@
 - 👋 Hi, I’m 周@Theearthismyround
-- 👀 我对……感兴趣。
-- 🌱 我正在学习…
-- 💞️ 我想和你合作…
-- 📫 怎么联系我…
+- 一杯茶, 一包烟, 一行代码敲一天
+- A cup of tea, a packet of cigarettes, one line of code knocks one day
 
 <!---
 Theearthismyround/Theearthismyround is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
